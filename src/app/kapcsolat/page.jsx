@@ -1,5 +1,10 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: "Krém Pizzéria - Kapcsolat",
+  description: "A Krém Pizzéria elérhetőségei és nyitvatartása.",
+};
+
 export default function Contact() {
   return (
     <main className="flex flex-col items-center justify-start min-h-full gap-6 px-4 py-2 xl:px-32 lg:py-4 ">

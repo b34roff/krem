@@ -1,0 +1,659 @@
+{
+  "menu": {
+    "redPizzas": [
+      {
+        "nameHun": "MARINARA",
+        "nameEng": "",
+        "price": 2490,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": ["oregánó", "fokhagyma", "extra szűz olivaolaj"],
+        "ingredientsEng": ["oregano", "garlic", "extra virgin olive oil"]
+      },
+      {
+        "nameHun": "MARGHERITA",
+        "nameEng": "",
+        "price": 2690,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "fior dio latte",
+          "bazsalikom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": ["fior dio latte", "basil", "extra virgin olive oil"]
+      },
+      {
+        "nameHun": "SZALÁMIS",
+        "nameEng": "SALAMI",
+        "price": 3190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "Calabra Spianata csípős szalámi VAGY Milánói csemege szalámi",
+          "fior dio latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "Calabra Spinata spicy salami OR Milanese mild salami,",
+          "fior dio latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "GOMBÁS",
+        "nameEng": "MUSHROOM",
+        "price": 3190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "pirított csiperke gomba",
+          "fior dio latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "fried chanterelle mushrooms",
+          "fior dio latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "PARMA",
+        "nameEng": "",
+        "price": 4190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": ["pármai sonka", "parmezán", "extra szűz olivaolaj"],
+        "ingredientsEng": ["parma ham", "parmesan", "extra virgin olive oil"]
+      },
+      {
+        "nameHun": "ZÖLDSÉGES",
+        "nameEng": "VEGGIE",
+        "price": 3190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "grillezett cukkini",
+          "padlizsán",
+          "kalifornia paprika",
+          "lilahagyma",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "grilled zucchini",
+          "eggplant",
+          "bell pepper",
+          "red onion",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SONKÁS",
+        "nameEng": "HAM",
+        "price": 3390,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "főtt sonka",
+          "fior dio latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "cooked ham",
+          "fior dio latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "BIVALY",
+        "nameEng": "BUFFALO",
+        "price": 4190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "D.O.P. bivalymozzarella",
+          "fior di latte",
+          "rukkola",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "D.O.P. buffalo mozzarella",
+          "fior di latte",
+          "arugula",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      }
+    ],
+    "whitePizzas": [
+      {
+        "nameHun": "BURRATA",
+        "nameEng": "",
+        "price": 4190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "burrata krémsajt",
+          "fior di latte",
+          "bazsalikom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "burrata cream cheese",
+          "fior di latte",
+          "basil",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SZALÁMIS",
+        "nameEng": "SALAMI",
+        "price": 3190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "Calabra Spianata csípős szalámi VAGY Milánói csemege szalámi",
+          "fior di latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "Calabra Spinata spicy salami OR Milanese mild salami",
+          "fior di latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SOKSAJTOS",
+        "nameEng": "EXTRA CHEESY",
+        "price": 4190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "fior di latte",
+          "parmezán",
+          "mozzarella",
+          "gorgonzola",
+          "füstölt sajt",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "fior di latte",
+          "parmesan",
+          "mozzarella",
+          "gorgonzola",
+          "smoked cheese",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "PARMA",
+        "nameEng": "",
+        "price": 4190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "pármai sonka",
+          "rukkola",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "parma ham",
+          "arugula",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SZARVASGOMBÁS",
+        "nameEng": "TRUFFLE",
+        "price": 4590,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "szarvasgomba",
+          "kecskesajt",
+          "méz",
+          "pirított dió",
+          "szarvasgombás sajt",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "truffle",
+          "goat cheese",
+          "honey",
+          " toasted walnuts",
+          "truffle cheese",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "ZÖLDSÉGES",
+        "nameEng": "VEGGIE",
+        "price": 3190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "grillezett cukkini",
+          "padlizsán",
+          "kalifornia paprika",
+          "lilahagyma",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "grilled zucchini",
+          "eggplant",
+          "bell pepper",
+          "red onion",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "KÓSTOLD MEG!",
+        "nameEng": "TASTE THIS! .",
+        "price": 4590,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "levegőn szárított mangalicasonka",
+          "kecskesajt",
+          "otelló szőlő zselé",
+          "méz",
+          "pirított dió",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "air-dried mangalica ham",
+          "goat cheese",
+          "otello grape jelly",
+          "honey",
+          "toasted walnuts",
+          "extra virgin olive oil"
+        ]
+      }
+    ],
+    "romanStyles": [
+      {
+        "nameHun": "MARGHERITA",
+        "nameEng": "",
+        "price": 950,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "fior dio latte",
+          "bazsalikom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": ["fior dio latte", "basil", "extra virgin olive oil"]
+      },
+      {
+        "nameHun": "SOKSAJTOS",
+        "nameEng": "EXTRA CHEESY",
+        "price": 1550,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "fior di latte",
+          "parmezán",
+          "mozzarella",
+          "gorgonzola",
+          "füstölt sajt",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "fior di latte",
+          "parmesan",
+          "mozzarella",
+          "gorgonzola",
+          "smoked cheese",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SONKÁS",
+        "nameEng": "HAM",
+        "price": 1550,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "főtt sonka",
+          "fior dio latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "cooked ham",
+          "fior dio latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SZALÁMIS",
+        "nameEng": "SALAMI",
+        "price": 1550,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "Calabra Spianata csípős szalámi VAGY Milánói csemege szalámi",
+          "fior dio latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "Calabra Spinata spicy salami OR Milanese mild salami,",
+          "fior dio latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "GOMBÁS",
+        "nameEng": "MUSHROOM",
+        "price": 1550,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "pirított csiperke gomba",
+          "fior dio latte",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "fried chanterelle mushrooms",
+          "fior dio latte",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "SZARVASGOMBÁS",
+        "nameEng": "TRUFFLE",
+        "price": 1550,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "szarvasgomba",
+          "kecskesajt",
+          "méz",
+          "pirított dió",
+          "szarvasgombás sajt",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "truffle",
+          "goat cheese",
+          "honey",
+          " toasted walnuts",
+          "truffle cheese",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "ZÖLDSÉGES",
+        "nameEng": "VEGGIE",
+        "price": 950,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "grillezett cukkini",
+          "padlizsán",
+          "kalifornia paprika",
+          "lilahagyma",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "grilled zucchini",
+          "eggplant",
+          "bell pepper",
+          "red onion",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      }
+    ],
+    "homePasta": [
+      {
+        "nameHun": "BOLOGNAI SPAGETTI",
+        "nameEng": "SPAGHETTI BOLOGNESE",
+        "price": 3690,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": ["házi bolognai ragu", "parmezán"],
+        "ingredientsEng": ["home-made bolognese ragout", "parmesan"]
+      },
+      {
+        "nameHun": "LAZACOS SZÉLESMETÉLT",
+        "nameEng": "SALMON PAPPARDELLE",
+        "price": 4990,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": ["paradicsom", "tejszín", "lazac", "spenót"],
+        "ingredientsEng": ["tomato", "cream", "salmon", "spinach"]
+      },
+      {
+        "nameHun": "RÁKOS MAKARÓNI",
+        "nameEng": "SHRIMP MACARONI",
+        "price": 5490,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": ["tejszín", "cukkini", "garnéla rák"],
+        "ingredientsEng": ["cream", "zucchini", "shrimp"]
+      },
+      {
+        "nameHun": "KOLBÁSZOS MAKARÓNI",
+        "nameEng": "SAUSAGE MACARONI",
+        "price": 4990,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "paradicsom",
+          "szürkemarha kolbász",
+          "sonka",
+          "mangalica szalonna",
+          "pecorino"
+        ],
+        "ingredientsEng": [
+          "tomato",
+          "Hungarian gray steppe sausage",
+          "ham",
+          "mangalica bacon",
+          "pecorino"
+        ]
+      },
+      {
+        "nameHun": "TONHALAS SPAGETTI",
+        "nameEng": "TUNA SPAGHETTI",
+        "price": 4990,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "paradicsomszósz",
+          "tonhal",
+          "olivabogyó",
+          "kapribogyó",
+          "parmezán"
+        ],
+        "ingredientsEng": [
+          "tomato sauce",
+          "tuna",
+          "olives",
+          "capers",
+          "parmesan"
+        ]
+      },
+      {
+        "nameHun": "ZÖLDSÉGES MAKARÓNI",
+        "nameEng": "VEGGIE MACARONI",
+        "price": 3690,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "paradicsomszósz",
+          "grillezett cukkini",
+          "padlizsán",
+          "kalifornia paprika",
+          "lilahagyma",
+          "gomba",
+          "koktélparadicsom"
+        ],
+        "ingredientsEng": [
+          "tomato sauce",
+          "grilled zucchini",
+          "eggplant",
+          "bell pepper",
+          "red onion",
+          "mushroom",
+          "cherry tomatoes"
+        ]
+      },
+      {
+        "nameHun": "SZICÍLIAI SZÉLESMETÉLT .",
+        "nameEng": "SICILIAN PAPPARDELLE",
+        "price": 3690,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "paradicsomszósz",
+          "sült padlizsán",
+          "szardella",
+          "parmezán"
+        ],
+        "ingredientsEng": [
+          "tomato sauce",
+          "fried eggplant",
+          "anchovies",
+          "parmesan"
+        ]
+      }
+    ],
+    "salads": [
+      {
+        "nameHun": "ZÖLD",
+        "nameEng": "GREEN",
+        "price": 1790,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "vegyes saláta",
+          "kalifornia paprika",
+          "koktélparadicsom",
+          "olasz dresszinggel",
+          "variálható az extrákkal"
+        ],
+        "ingredientsEng": [
+          "mixed salad",
+          "bell pepper",
+          "cherry tomato",
+          "with italian dressing",
+          "can be varied with extras"
+        ]
+      },
+      {
+        "nameHun": "CAPRESE",
+        "nameEng": "",
+        "price": 2190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "mozzarella",
+          "paradicsom",
+          "bazsalikom",
+          "extra szűz olivaolaj",
+          "balzsamecet"
+        ],
+        "ingredientsEng": [
+          "mozzarella",
+          "tomato",
+          "basil",
+          "extra virgin olive oil",
+          "balsamic vinegar"
+        ]
+      },
+      {
+        "nameHun": "TONHAL",
+        "nameEng": "TUNA",
+        "price": 2990,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "zöld saláta",
+          "kalifornia paprika",
+          ", koktélparadicsom",
+          "tonhal",
+          "kapribogyó",
+          "olajbogyó",
+          "tojás",
+          "mustáros dresszing"
+        ],
+        "ingredientsEng": [
+          "green salad",
+          "bell pepper",
+          "cherry tomatoes",
+          "tuna",
+          "capers",
+          "olives",
+          "eggs",
+          "mustard dressing"
+        ]
+      },
+      {
+        "nameHun": "RÁK",
+        "nameEng": "SHRIMP",
+        "price": 3690,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "zöld saláta",
+          "kalifornia paprika",
+          "koktélparadicsom",
+          "grillezett garnéla farok"
+        ],
+        "ingredientsEng": [
+          "green salad",
+          "bell pepper",
+          "cherry tomatoes",
+          "grilled shrimp tail"
+        ]
+      },
+      {
+        "nameHun": "SONKA",
+        "nameEng": "HAM",
+        "price": 2790,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "pármai sonka",
+          "rukkola",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "parma ham",
+          "arugula",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      },
+      {
+        "nameHun": "BURRATA",
+        "nameEng": "",
+        "price": 3190,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [
+          "burrata",
+          "rukkola",
+          "koktélparadicsom",
+          "extra szűz olivaolaj"
+        ],
+        "ingredientsEng": [
+          "burrata",
+          "arugula",
+          "cherry tomato",
+          "extra virgin olive oil"
+        ]
+      }
+    ],
+    "desserts": [
+      {
+        "nameHun": "TIRAMISU POHÁRKRÉM",
+        "nameEng": "TIRAMISU CREAM CUP",
+        "price": 1400,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [],
+        "ingredientsEng": []
+      },
+      {
+        "nameHun": "OLASZ CITROM TARTE",
+        "nameEng": "ITALIAN LEMON TART",
+        "price": 1200,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [],
+        "ingredientsEng": []
+      },
+      {
+        "nameHun": "PANNA COTTA",
+        "nameEng": "",
+        "price": 1200,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [],
+        "ingredientsEng": []
+      },
+      {
+        "nameHun": "NAPI AJÁNLAT",
+        "nameEng": "DESSERT OF THE DAY",
+        "price": 0,
+        "image": "/DSC0450.jpg",
+        "ingredientsHun": [],
+        "ingredientsEng": []
+      }
+    ],
+    "drinks": []
+  }
+}

@@ -62,8 +62,7 @@ export default function Contact() {
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1367.005651761508!2d18.404182758393024!3d47.19529605015141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4769f7b2d49d2c63%3A0x9a6959080caf5e70!2zU3rDqWtlc2ZlaMOpcnbDoXIsIFN6YWJhZHPDoWdoYXJjb3Mgw7p0IDQwLCA4MDAw!5e0!3m2!1sfr!2shu!4v1705937493001!5m2!1sfr!2shu"
             width="1100"
             height="375"
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+            loading="lazy"></iframe>
         </div>
       </div>
     </main>

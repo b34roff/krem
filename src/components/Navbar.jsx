@@ -65,20 +65,25 @@ export default function Navbar() {
 
       {isOpen && (
         <ul className="flex flex-col items-center justify-center w-full gap-2">
-          <NavElement href="/" label="Kezdőlap" />
-          <NavElement href="/etlap" label="Étlap" />
-          <NavElement href="/kapcsolat" label="Kapcsolat" />
+          <NavElement href="/" label="Kezdőlap" toggleMenu={toggleMenu} />
+          <NavElement href="/etlap" label="Étlap" toggleMenu={toggleMenu} />
+          <NavElement
+            href="/kapcsolat"
+            label="Kapcsolat"
+            toggleMenu={toggleMenu}
+          />
         </ul>
       )}
     </nav>
   );
 }
 
-export function NavElement({ href, label }) {
+export function NavElement({ href, label, toggleMenu }) {
   const actualPath = usePathname().split("/")[1];
   return (
     <li>
       <Link
+        onClick={toggleMenu}
         href={href}
         className={`h-full py-1 px-2 md:px-4 md:py-2 text-lg font-medium transition duration-300 ease-in-out rounded-full lg:hover:bg-blue-500 lg:hover:text-slate-100 border-2 ${
           `/${actualPath}` === href
